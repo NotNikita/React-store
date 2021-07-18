@@ -6,15 +6,23 @@ import FormInput from '../form-input/form-input.component'
 import CustomButton from '../custom-button/custom-button.component'
 
 import { signInWithGoogle } from '../../firebase/firebase.utils'
+import { auth } from '../../firebase/firebase.utils'
 
 const SignIn = () => {
     const [email, setEmail] = useState('')
     const [password, setPassword] = useState('')
 
-    const handleSubmit = event => {
+    const handleSubmit = async event => {
         event.preventDefault()
-        setEmail('')
-        setPassword('')
+
+        try {
+            await auth.signInWithEmailAndPassword(email, password)
+            setEmail('')
+            setPassword('')
+        } catch (error) {
+            console.log('error occured in sign-in handleSubmit ' + error.message)
+        }
+
     }
     const handleChange = event => {
         const { value, name } = event.target;
