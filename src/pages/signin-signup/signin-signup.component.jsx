@@ -4,7 +4,7 @@ import './signin-signup.styles.scss'
 import SignIn from '../../components/sign-in/sign-in.component'
 import SignUp from '../../components/sign-up/sign-up.component'
 
-const SignInAndSignOutPage = () => {
+const SignInAndSignUpPage = () => {
     return (
         <div className="sign-in-and-sign-out">
             <SignIn></SignIn>
@@ -13,4 +13,4 @@ const SignInAndSignOutPage = () => {
     )
 }
 
-export default SignInAndSignOutPage
+export default SignInAndSignUpPage
