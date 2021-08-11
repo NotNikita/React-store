@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-store-deploy/static/css/main.45f07980.chunk.css",
-    "main.js": "/react-store-deploy/static/js/main.c5f9a8f7.chunk.js",
-    "main.js.map": "/react-store-deploy/static/js/main.c5f9a8f7.chunk.js.map",
-    "runtime-main.js": "/react-store-deploy/static/js/runtime-main.271682e4.js",
-    "runtime-main.js.map": "/react-store-deploy/static/js/runtime-main.271682e4.js.map",
-    "static/js/2.87af1c10.chunk.js": "/react-store-deploy/static/js/2.87af1c10.chunk.js",
-    "static/js/2.87af1c10.chunk.js.map": "/react-store-deploy/static/js/2.87af1c10.chunk.js.map",
-    "index.html": "/react-store-deploy/index.html",
-    "static/css/main.45f07980.chunk.css.map": "/react-store-deploy/static/css/main.45f07980.chunk.css.map",
-    "static/js/2.87af1c10.chunk.js.LICENSE.txt": "/react-store-deploy/static/js/2.87af1c10.chunk.js.LICENSE.txt",
-    "static/media/crown.3a4e2b15.svg": "/react-store-deploy/static/media/crown.3a4e2b15.svg",
-    "static/media/shopping-bag.a688874f.svg": "/react-store-deploy/static/media/shopping-bag.a688874f.svg"
+    "main.css": "/React-store/static/css/main.45f07980.chunk.css",
+    "main.js": "/React-store/static/js/main.c5f9a8f7.chunk.js",
+    "main.js.map": "/React-store/static/js/main.c5f9a8f7.chunk.js.map",
+    "runtime-main.js": "/React-store/static/js/runtime-main.453831a5.js",
+    "runtime-main.js.map": "/React-store/static/js/runtime-main.453831a5.js.map",
+    "static/js/2.07473b61.chunk.js": "/React-store/static/js/2.07473b61.chunk.js",
+    "static/js/2.07473b61.chunk.js.map": "/React-store/static/js/2.07473b61.chunk.js.map",
+    "index.html": "/React-store/index.html",
+    "static/css/main.45f07980.chunk.css.map": "/React-store/static/css/main.45f07980.chunk.css.map",
+    "static/js/2.07473b61.chunk.js.LICENSE.txt": "/React-store/static/js/2.07473b61.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/React-store/static/media/crown.3a4e2b15.svg",
+    "static/media/shopping-bag.a688874f.svg": "/React-store/static/media/shopping-bag.a688874f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.271682e4.js",
-    "static/js/2.87af1c10.chunk.js",
+    "static/js/runtime-main.453831a5.js",
+    "static/js/2.07473b61.chunk.js",
     "static/css/main.45f07980.chunk.css",
     "static/js/main.c5f9a8f7.chunk.js"
   ]
