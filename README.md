@@ -1,3 +1,3 @@
 # Deploy:
 
-https://notnikita.github.io/shop
+https://notnikita.github.io/React-store/
